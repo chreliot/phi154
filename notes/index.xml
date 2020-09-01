@@ -6,9 +6,19 @@
     <description>Recent content in Notes on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 11 Aug 2020 15:24:53 -0400</lastBuildDate>
     
 	<atom:link href="http://chreliot.github.io/phi154/notes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test4</title>
+      <link>http://chreliot.github.io/phi154/notes/test4/</link>
+      <pubDate>Tue, 11 Aug 2020 15:24:53 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/test4/</guid>
+      <description>(nothing here yet; more to come)</description>
+    </item>
     
   </channel>
 </rss>
