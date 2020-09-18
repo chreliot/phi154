@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Aug 2020 15:24:53 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Vocabulary</title>
-      <link>http://chreliot.github.io/phi154/notes/vocabulary/</link>
+      <title>vocabulary list</title>
+      <link>http://chreliot.github.io/phi154/notes/vocabulary-list/</link>
       <pubDate>Tue, 11 Aug 2020 15:24:53 -0400</pubDate>
       
-      <guid>http://chreliot.github.io/phi154/notes/vocabulary/</guid>
+      <guid>http://chreliot.github.io/phi154/notes/vocabulary-list/</guid>
       <description>These are technical words we have learned so far. Generally, you can find the words in the forall x book highlighted in pink small-caps. A student asked for a compiled list of them, for the purpose of making flash cards. So here it is:
  argument sentence true false truth value (logical) consequence (logical) validity (logical) invalidity (logical) soundness (logical) unsoundness inductive arguments deductive arguments case joint possibility joint impossibility contingency necessary truth necessary falsehood necessary equivalence truth-functional logic truth-functional connectives symbolization key atomic sentence expression of TFL sentence of TFL negation conjunction disjunction conditional biconditional conjunct disjunct antecedent consequent inclusive or exclusive or main logical operator scope (of a connective) use mention metavariable characteristic truth table  (The parentheses indicate that we often use the word or phrase without the part in parentheses.</description>
     </item>
