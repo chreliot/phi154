@@ -5,46 +5,6 @@
     <link>http://chreliot.github.io/phi154/notes/</link>
     <description>Recent content in Notes on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2020 16:20:47 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/notes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Symbolization Exercise Answers</title>
-      <link>http://chreliot.github.io/phi154/notes/symbolization-exercise-answers/</link>
-      <pubDate>Sun, 11 Oct 2020 16:20:47 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi154/notes/symbolization-exercise-answers/</guid>
-      <description>The answer sheet for the TFL symbolization exercise is here (pdf).</description>
-    </item>
-    
-    <item>
-      <title>Test 1</title>
-      <link>http://chreliot.github.io/phi154/notes/test-1/</link>
-      <pubDate>Wed, 07 Oct 2020 08:55:06 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi154/notes/test-1/</guid>
-      <description>Test 1, at class time on October 12, may include the following tasks:
- Answer true-false questions using the terms/concepts from the vocabulary sheet, very similar to the true-false exercises you&amp;rsquo;ve done. Look at a few sentences, and construct a symbolization key for the atomic propositions in those sentences—one adequate to bring out their truth-functional structure. Using a symbolization key, symbolize English sentences in TFL. Using a symbolization key, translate symbolized TFL sentences into English.</description>
-    </item>
-    
-    <item>
-      <title>True/False Exercise Answers</title>
-      <link>http://chreliot.github.io/phi154/notes/true/false-exercise-answers/</link>
-      <pubDate>Fri, 18 Sep 2020 12:42:21 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi154/notes/true/false-exercise-answers/</guid>
-      <description>Answers to the true/false sentences exercise. Please ask if you&amp;rsquo;re not sure about any of them! I don&amp;rsquo;t think there are any errors.
- F F F F F F T F T F F F T T T F F F F T T T F T F F T T F F T F F F F T T T T F F F T F T F T  </description>
-    </item>
-    
-    <item>
-      <title>vocabulary list</title>
-      <link>http://chreliot.github.io/phi154/notes/vocabulary-list/</link>
-      <pubDate>Fri, 18 Sep 2020 11:24:53 -0400</pubDate>
-      
-      <guid>http://chreliot.github.io/phi154/notes/vocabulary-list/</guid>
-      <description>These are technical words we have learned so far. Generally, you can find these words in the forall x book highlighted in pink small-caps. A student asked for a compiled list of them, for the purpose of making flash cards. So here it is:
- argument sentence true false truth value (logical) consequence (logical) validity (logical) invalidity (logical) soundness (logical) unsoundness inductive arguments deductive arguments case joint possibility joint impossibility contingency necessary truth necessary falsehood necessary equivalence truth-functional logic truth-functional connectives symbolization key atomic sentence expression of TFL sentence of TFL negation conjunction disjunction conditional biconditional conjunct disjunct antecedent consequent inclusive or exclusive or main logical operator scope (of a connective) use mention metavariable characteristic truth table  (The parentheses indicate that we often use the word or phrase without the part in parentheses.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://chreliot.github.io/phi154/notes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
