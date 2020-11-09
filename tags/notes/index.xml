@@ -6,7 +6,17 @@
     <description>Recent content in notes on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2020 16:32:09 -0500</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Nov 2020 11:39:33 -0500</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Variant Rule Names</title>
+      <link>http://chreliot.github.io/phi154/notes/variant-rule-names/</link>
+      <pubDate>Mon, 09 Nov 2020 11:39:33 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/variant-rule-names/</guid>
+      <description>In the Basic deduction rules for TFL (summarized in textbook Appendix C, section 3.4), the names of the negation rules are a little confusing. I&amp;rsquo;m not the first instructor using this textbok to point this out. So, I offer you the following alternatives. In a natural deduction proof, in your justification column,
+ you may optionally invoke the contradiction rule (¬E) by writing “contradiction” or “contra.” instead; because ¬I and IP are symmetrical rules1, but not named symmetrically, you may optionally invoke ¬I by calling it “IP”  In other words, I won&amp;rsquo;t mark those two alternatives wrong on homework or tests.</description>
+    </item>
+    
     <item>
       <title>Test 2</title>
       <link>http://chreliot.github.io/phi154/notes/test-2/</link>
