@@ -6,7 +6,17 @@
     <description>Recent content in notes on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2020 11:39:33 -0500</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Nov 2020 13:59:37 -0500</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FOL Parentheses</title>
+      <link>http://chreliot.github.io/phi154/notes/fol-parentheses/</link>
+      <pubDate>Fri, 20 Nov 2020 13:59:37 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/fol-parentheses/</guid>
+      <description>The following specifies where, for your work in this course, parentheses are and are not optional in First Order Logic:
+ Textbook Section 26.4 allows us to omit the outermost brackets of any formula (so, “P⋁Q” is just as good as “(P⋁Q)”). And it allows square brackets (“[” and “]”) in place of parentheses wherever we feel it increases readability. Our textbook generally does not put parentheses around quantifiers, like ∀x and ∃x.</description>
+    </item>
+    
     <item>
       <title>Variant Rule Names</title>
       <link>http://chreliot.github.io/phi154/notes/variant-rule-names/</link>
@@ -73,7 +83,7 @@
       
       <guid>http://chreliot.github.io/phi154/notes/vocabulary-list/</guid>
       <description>These are technical words we have learned so far. Generally, you can find these words in the forall x book highlighted in pink small-caps. A student asked for a compiled list of them, for the purpose of making flash cards. So here it is:
- argument sentence true false truth value (logical) consequence (logical) validity (logical) invalidity (logical) soundness (logical) unsoundness inductive arguments deductive arguments case joint possibility joint impossibility contingency necessary truth necessary falsehood necessary equivalence truth-functional logic truth-functional connectives symbolization key atomic sentence expression of TFL sentence of TFL negation conjunction disjunction conditional biconditional conjunct disjunct antecedent consequent inclusive or exclusive or main logical operator scope (of a connective) use mention metavariable characteristic truth table natural deduction formal proof inference rules of TFL modus ponens affirming the consequent subproof additional assumption scope line discharging an assumption reductio ad absurdum indirect proof explosion derived rules disjunctive syllogism modus tollens law of the excluded middle  (The parentheses indicate that we often use the word or phrase without the part in parentheses.</description>
+ argument sentence true false truth value (logical) consequence (logical) validity (logical) invalidity (logical) soundness (logical) unsoundness inductive arguments deductive arguments case joint possibility joint impossibility contingency necessary truth necessary falsehood necessary equivalence truth-functional logic truth-functional connectives symbolization key atomic sentence expression of TFL sentence of TFL negation conjunction disjunction conditional biconditional conjunct disjunct antecedent consequent inclusive or exclusive or main logical operator scope (of a connective) use mention metavariable characteristic truth table natural deduction formal proof inference rules of TFL modus ponens affirming the consequent subproof additional assumption scope line discharging an assumption reductio ad absurdum indirect proof explosion derived rules disjunctive syllogism modus tollens First-order Logic (FOL) name singular term term predicate quantifier variable universal quantifier existential quantifier domain scope (of a quantifier)  (The parentheses indicate that we often use the word or phrase without the part in parentheses.</description>
     </item>
     
   </channel>
