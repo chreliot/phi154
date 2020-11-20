@@ -5,6 +5,76 @@
     <link>http://chreliot.github.io/phi154/notes/</link>
     <description>Recent content in Notes on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://chreliot.github.io/phi154/notes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Nov 2020 11:39:33 -0500</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Variant Rule Names</title>
+      <link>http://chreliot.github.io/phi154/notes/variant-rule-names/</link>
+      <pubDate>Mon, 09 Nov 2020 11:39:33 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/variant-rule-names/</guid>
+      <description>In the Basic deduction rules for TFL (summarized in textbook Appendix C, section 3.4), the names of the negation rules are a little confusing. I&amp;rsquo;m not the first instructor using this textbok to point this out. So, I offer you the following alternatives. In a natural deduction proof, in your justification column,
+ you may optionally invoke the contradiction rule (¬E) by writing “contradiction” or “contra.” instead; because ¬I and IP are symmetrical rules1, but not named symmetrically, you may optionally invoke ¬I by calling it “IP”  In other words, I won&amp;rsquo;t mark those two alternatives wrong on homework or tests.</description>
+    </item>
+    
+    <item>
+      <title>Test 2</title>
+      <link>http://chreliot.github.io/phi154/notes/test-2/</link>
+      <pubDate>Tue, 03 Nov 2020 16:32:09 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/test-2/</guid>
+      <description>Test 2, administered at class time on December 2, may include the following:
+ Offer the definition of “logically valid.” Answer true-false questions using the terms/concepts from the [vocabulary][vocabulary] sheet, very similar to the true-false exercises you&amp;rsquo;ve done. Given a logically valid argument expressed in English, construct a symbolization key for the atomic sentences and/or names and predicates within them, in a way that&amp;rsquo;s adequate to bring out the logical validity of the argument.</description>
+    </item>
+    
+    <item>
+      <title>Interpreting Grades</title>
+      <link>http://chreliot.github.io/phi154/notes/interpreting-grades/</link>
+      <pubDate>Mon, 26 Oct 2020 10:45:14 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/interpreting-grades/</guid>
+      <description>This note about grading and interpreting grades just adds some informative detail to what the course syllabus already says about grading, and it shows how grades are calculated for any particular assessment.
+ 4-point scale Test grades Overall course grades    4-point scale Grades in this course are assigned and calculated using Hofstra&amp;rsquo;s 4-point scale (described here in the Hofstra Bulletin). Following the Bulletin, the alphabetical grades, including plus (+) and minus (–), have the following 4-point scale values (and vice versa):</description>
+    </item>
+    
+    <item>
+      <title>Symbolization Exercise Answers</title>
+      <link>http://chreliot.github.io/phi154/notes/symbolization-exercise-answers/</link>
+      <pubDate>Sun, 11 Oct 2020 16:20:47 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/symbolization-exercise-answers/</guid>
+      <description>The answer sheet for the TFL symbolization exercise is here (pdf).</description>
+    </item>
+    
+    <item>
+      <title>Test 1</title>
+      <link>http://chreliot.github.io/phi154/notes/test-1/</link>
+      <pubDate>Wed, 07 Oct 2020 08:55:06 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/test-1/</guid>
+      <description>Test 1, at class time on October 12, may include the following tasks:
+ Define “logically valid.” Answer true-false questions using the terms/concepts from the vocabulary sheet, very similar to the true-false exercises you&amp;rsquo;ve done. Look at a few sentences, and construct a symbolization key for the atomic propositions in those sentences—one adequate to bring out their truth-functional structure. Using a symbolization key, symbolize English sentences in TFL. Using a symbolization key, translate symbolized TFL sentences into English.</description>
+    </item>
+    
+    <item>
+      <title>True/False Exercise Answers</title>
+      <link>http://chreliot.github.io/phi154/notes/true/false-exercise-answers/</link>
+      <pubDate>Fri, 18 Sep 2020 12:42:21 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/true/false-exercise-answers/</guid>
+      <description>Answers to the true/false sentences exercise. Please ask if you&amp;rsquo;re not sure about any of them! I don&amp;rsquo;t think there are any errors.
+ F F F F F F T F T F F F T T T F F F F T T T F T F F T T F F T F F F F T T T T F F F T F T F T  </description>
+    </item>
+    
+    <item>
+      <title>vocabulary list</title>
+      <link>http://chreliot.github.io/phi154/notes/vocabulary-list/</link>
+      <pubDate>Fri, 18 Sep 2020 11:24:53 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/vocabulary-list/</guid>
+      <description>These are technical words we have learned so far. Generally, you can find these words in the forall x book highlighted in pink small-caps. A student asked for a compiled list of them, for the purpose of making flash cards. So here it is:
+ argument sentence true false truth value (logical) consequence (logical) validity (logical) invalidity (logical) soundness (logical) unsoundness inductive arguments deductive arguments case joint possibility joint impossibility contingency necessary truth necessary falsehood necessary equivalence truth-functional logic truth-functional connectives symbolization key atomic sentence expression of TFL sentence of TFL negation conjunction disjunction conditional biconditional conjunct disjunct antecedent consequent inclusive or exclusive or main logical operator scope (of a connective) use mention metavariable characteristic truth table natural deduction formal proof inference rules of TFL modus ponens affirming the consequent subproof additional assumption scope line discharging an assumption reductio ad absurdum indirect proof explosion derived rules disjunctive syllogism modus tollens law of the excluded middle  (The parentheses indicate that we often use the word or phrase without the part in parentheses.</description>
+    </item>
+    
   </channel>
 </rss>
