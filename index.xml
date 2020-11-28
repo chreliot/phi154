@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Aug 2020 12:26:52 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Natural Deduction with Derived Rules Answers</title>
+      <link>http://chreliot.github.io/phi154/notes/natural-deduction-with-derived-rules-answers/</link>
+      <pubDate>Wed, 25 Nov 2020 12:50:54 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/natural-deduction-with-derived-rules-answers/</guid>
+      <description>A sheet of proof-solutions for the exercise on TFL natural deduction with derived rules are → here.
+One important caveat: these are only the solutions I happened to see first, and which seemed to me at least as efficient as other solutions I immediately saw. There are always many other solutions, and especially many other legitimate ways of ordering inferences. So, your answer that&amp;rsquo;s quite unlike what I&amp;rsquo;ve done isn&amp;rsquo;t necessarily wrong!</description>
+    </item>
+    
+    <item>
       <title>FOL Parentheses</title>
       <link>http://chreliot.github.io/phi154/notes/fol-parentheses/</link>
       <pubDate>Fri, 20 Nov 2020 13:59:37 -0500</pubDate>
