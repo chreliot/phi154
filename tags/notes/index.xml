@@ -13,8 +13,8 @@
       <pubDate>Wed, 25 Nov 2020 12:50:54 -0500</pubDate>
       
       <guid>http://chreliot.github.io/phi154/notes/natural-deduction-with-derived-rules-answers/</guid>
-      <description>A sheet of proof-solutions for the exercise on TFL natural deduction with derived rules are → here.
-One important caveat: these are only the solutions I happened to see first, and which seemed to me at least as efficient as other solutions I immediately saw. There are always many other solutions, and especially many other legitimate ways of ordering inferences. So, your answer that&amp;rsquo;s quite unlike what I&amp;rsquo;ve done isn&amp;rsquo;t necessarily wrong!</description>
+      <description>Proof-solutions for the exercise on TFL natural deduction with derived rules is → here.
+An important caveat: these are only the solutions I happened to see first, and which seemed to me at least as efficient as other solutions I immediately saw. There are always many other solutions, and especially many other legitimate ways of ordering inferences. So, your answer that&amp;rsquo;s quite unlike what I&amp;rsquo;ve done isn&amp;rsquo;t necessarily wrong! You might consider checking it with the forall x proof checker.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@ One important caveat: these are only the solutions I happened to see first, and 
       
       <guid>http://chreliot.github.io/phi154/notes/test-2/</guid>
       <description>Test 2, administered at class time our Hofstra-assigned exam-time, 8–10 AM, on December 2, may include the following:
- Offer the definition of “logically valid.” Answer true-false questions using the terms/concepts from the [vocabulary][vocabulary] sheet, very similar to the true-false exercises you&amp;rsquo;ve done. Given a logically valid argument expressed in English, construct a symbolization key for the atomic sentences and/or names and predicates within them, in a way that&amp;rsquo;s adequate to bring out the logical validity of the argument.</description>
+ Offer the definition of “logically valid.” Answer true-false questions using the terms/concepts from the vocabulary sheet, very similar to the true-false exercises you&amp;rsquo;ve done. Given a logically valid argument expressed in English, construct a symbolization key for the atomic sentences and/or names and predicates within them, in a way that&amp;rsquo;s adequate to bring out the logical validity of the argument.</description>
     </item>
     
     <item>
