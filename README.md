@@ -1,2 +1,2 @@
 # phi154
-PHI 154 (Fall 2020) at Hofstra University
+PHI 154 (Fall 2021) at Hofstra University
