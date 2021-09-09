@@ -6,15 +6,20 @@
     <description>Recent content in Content on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2020 12:26:52 -0400</lastBuildDate>
-    
-	<atom:link href="http://chreliot.github.io/phi154/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 11 Aug 2020 12:26:52 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Caveats</title>
+      <link>http://chreliot.github.io/phi154/notes/10-caveats/</link>
+      <pubDate>Thu, 02 Sep 2021 13:52:57 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/10-caveats/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interpreting Grades</title>
       <link>http://chreliot.github.io/phi154/notes/interpreting-grades/</link>
-      <pubDate>Mon, 26 Oct 2020 10:45:14 -0400</pubDate>
+      <pubDate>Wed, 01 Sep 2021 10:45:14 -0400</pubDate>
       
       <guid>http://chreliot.github.io/phi154/notes/interpreting-grades/</guid>
       <description>This note about grading and interpreting grades just adds some informative detail to what the course syllabus already says about grading, and it shows how grades are calculated for any particular assessment.
@@ -33,7 +38,7 @@
     <item>
       <title>vocabulary list</title>
       <link>http://chreliot.github.io/phi154/notes/vocabulary-list/</link>
-      <pubDate>Fri, 18 Sep 2020 11:24:53 -0400</pubDate>
+      <pubDate>Tue, 01 Sep 2020 11:24:53 -0400</pubDate>
       
       <guid>http://chreliot.github.io/phi154/notes/vocabulary-list/</guid>
       <description>These are technical words for the course. Generally, you can find these words in the forall x book highlighted in pink small-caps.
