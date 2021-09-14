@@ -6,6 +6,10 @@
     <description>Recent content in Symbolic Logic (Fall 2020) on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Aug 2020 15:56:12 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Aug 2020 15:56:12 -0400</lastBuildDate>
+    
+	<atom:link href="http://chreliot.github.io/phi154/assignments/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
