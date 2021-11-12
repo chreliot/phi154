@@ -8,13 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Aug 2020 12:26:52 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>more natural deduction</title>
+      <title>More Natural Deduction</title>
       <link>http://chreliot.github.io/phi154/notes/more-natural-deduction/</link>
       <pubDate>Fri, 12 Nov 2021 10:30:06 -0400</pubDate>
       
       <guid>http://chreliot.github.io/phi154/notes/more-natural-deduction/</guid>
       <description>A handful of students have asked for more TFL natural deduction proofs to practice.
-Reference  If you want to display or print out a full list of the basic rules or derived rules for natural deduction, they are summarized in forall x at Appendix C 3.4 and 3.5. (In the Fall 2021 edition of the textbook, these start at page 406.)  Sources for additional TFL natural deduction proofs for practicing  The textbook, forall x, contains many worked examples in the middle of the chapters (especially 16 and 17) which you can try and then compare to your own answers.</description>
+Natural deduction rules reference sheet If you want to display or print out a full list of the basic rules or derived rules for natural deduction, summarized in one place, they are listed in forall x at Appendix C 3.4 and 3.5. (In the Fall 2021 edition of the textbook, they start at page 406.)
+Sources for additional TFL natural deduction proofs for practicing  The textbook, forall x, contains many worked examples in the middle of the chapters (especially 16 and 17) which you can try and then compare to your own answers.</description>
     </item>
     
     <item>
