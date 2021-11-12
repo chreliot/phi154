@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Aug 2020 12:26:52 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>more natural deduction</title>
+      <link>http://chreliot.github.io/phi154/notes/more-natural-deduction/</link>
+      <pubDate>Fri, 12 Nov 2021 10:30:06 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/more-natural-deduction/</guid>
+      <description>A handful of students have asked for more TFL natural deduction proofs to practice.
+Reference  If you want to display or print out a full list of the basic rules or derived rules for natural deduction, they are summarized in forall x at Appendix C 3.4 and 3.5. (In the Fall 2021 edition of the textbook, these start at page 406.)  Sources for additional TFL natural deduction proofs for practicing  The textbook, forall x, contains many worked examples in the middle of the chapters (especially 16 and 17) which you can try and then compare to your own answers.</description>
+    </item>
+    
+    <item>
       <title>Test 1</title>
       <link>http://chreliot.github.io/phi154/notes/test-1/</link>
       <pubDate>Tue, 28 Sep 2021 10:52:37 -0400</pubDate>
@@ -61,7 +71,7 @@
       <pubDate>Tue, 01 Sep 2020 11:24:53 -0400</pubDate>
       
       <guid>http://chreliot.github.io/phi154/notes/vocabulary-list/</guid>
-      <description>These are technical words for the course. Generally, you can find these words in the forall x book highlighted in pink small-caps.
+      <description>These are technical words for the course. Generally, you can find these words in the forall x book highlighted in pink small-caps. Also, that textbook includes a Glossary (page 412 in the Fall 2021 edition) for many of these.
  argument sentence true false truth value (logical) consequence (logical) validity (logical) invalidity (logical) soundness (logical) unsoundness inductive arguments deductive arguments case joint possibility joint impossibility contingency necessary truth necessary falsehood necessary equivalence truth-functional logic truth-functional connectives symbolization key atomic sentence expression of TFL sentence of TFL negation conjunction disjunction conditional biconditional conjunct disjunct antecedent consequent inclusive or exclusive or main logical operator scope (of a connective) use mention metavariable characteristic truth table natural deduction formal proof inference rules of TFL modus ponens affirming the consequent subproof additional assumption scope line discharging an assumption reductio ad absurdum indirect proof explosion derived rules disjunctive syllogism modus tollens First-order Logic (FOL) name singular term term predicate quantifier variable universal quantifier existential quantifier domain scope (of a quantifier)  (The parentheses indicate that we often use the word or phrase without the part in parentheses.</description>
     </item>
     
