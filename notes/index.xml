@@ -5,6 +5,66 @@
     <link>http://chreliot.github.io/phi154/notes/</link>
     <description>Recent content in Notes on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://chreliot.github.io/phi154/notes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Nov 2021 10:30:06 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>more natural deduction</title>
+      <link>http://chreliot.github.io/phi154/notes/more-natural-deduction/</link>
+      <pubDate>Fri, 12 Nov 2021 10:30:06 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/more-natural-deduction/</guid>
+      <description>A handful of students have asked for more TFL natural deduction proofs to practice.
+Reference  If you want to display or print out a full list of the basic rules or derived rules for natural deduction, they are summarized in forall x at Appendix C 3.4 and 3.5. (In the Fall 2021 edition of the textbook, these start at page 406.)  Sources for additional TFL natural deduction proofs for practicing  The textbook, forall x, contains many worked examples in the middle of the chapters (especially 16 and 17) which you can try and then compare to your own answers.</description>
+    </item>
+    
+    <item>
+      <title>Test 1</title>
+      <link>http://chreliot.github.io/phi154/notes/test-1/</link>
+      <pubDate>Tue, 28 Sep 2021 10:52:37 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/test-1/</guid>
+      <description>Test 1, at class time on October 18, may include the following tasks:
+ Define “logically valid.” Answer true-false questions using the terms/concepts from the vocabulary sheet, very similar to the true-false exercises you&amp;rsquo;ve done. Look at one or more English sentences, and construct a symbolization key for the atomic TFL sentences in them—a key that is adequate to bring out their truth-functional structure. Using a given symbolization key, symbolize English sentences in TFL.</description>
+    </item>
+    
+    <item>
+      <title>Quizzes</title>
+      <link>http://chreliot.github.io/phi154/notes/quizzes/</link>
+      <pubDate>Tue, 28 Sep 2021 10:42:07 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/quizzes/</guid>
+      <description>We will be having regular check-up quizzes. Quizzes will be very short—normally 10 minutes. Their purpose is to check in on your understanding and to incentivize your ongoing efforts, should they require a hint of additional incentive.
+  Some quizzes will be open notes and homework, meaning that you can copy answers from your own homework (though not from anyone else). In those cases, the quizzes will exactly repeat some homework problems.</description>
+    </item>
+    
+    <item>
+      <title>10 Caveats</title>
+      <link>http://chreliot.github.io/phi154/notes/10-caveats/</link>
+      <pubDate>Thu, 02 Sep 2021 13:52:57 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/10-caveats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpreting Grades</title>
+      <link>http://chreliot.github.io/phi154/notes/interpreting-grades/</link>
+      <pubDate>Wed, 01 Sep 2021 10:45:14 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/interpreting-grades/</guid>
+      <description>This note about grading and interpreting grades just adds some informative detail to what the course syllabus already says about grading, and it shows how grades are calculated for any particular assessment.
+ 4-point scale Test grades Overall course grades    4-point scale Grades in this course are assigned and calculated using Hofstra&amp;rsquo;s 4-point scale (described here in the Hofstra Bulletin). Following the Bulletin, the alphabetical grades, including plus (+) and minus (–), have the following 4-point scale values (and vice versa):</description>
+    </item>
+    
+    <item>
+      <title>vocabulary list</title>
+      <link>http://chreliot.github.io/phi154/notes/vocabulary-list/</link>
+      <pubDate>Tue, 01 Sep 2020 11:24:53 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi154/notes/vocabulary-list/</guid>
+      <description>These are technical words for the course. Generally, you can find these words in the forall x book highlighted in pink small-caps. Also, that textbook includes a Glossary (page 412 in the Fall 2021 edition) for many of these.
+ argument sentence true false truth value (logical) consequence (logical) validity (logical) invalidity (logical) soundness (logical) unsoundness inductive arguments deductive arguments case joint possibility joint impossibility contingency necessary truth necessary falsehood necessary equivalence truth-functional logic truth-functional connectives symbolization key atomic sentence expression of TFL sentence of TFL negation conjunction disjunction conditional biconditional conjunct disjunct antecedent consequent inclusive or exclusive or main logical operator scope (of a connective) use mention metavariable characteristic truth table natural deduction formal proof inference rules of TFL modus ponens affirming the consequent subproof additional assumption scope line discharging an assumption reductio ad absurdum indirect proof explosion derived rules disjunctive syllogism modus tollens First-order Logic (FOL) name singular term term predicate quantifier variable universal quantifier existential quantifier domain scope (of a quantifier)  (The parentheses indicate that we often use the word or phrase without the part in parentheses.</description>
+    </item>
+    
   </channel>
 </rss>
