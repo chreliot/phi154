@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>notes on PHI 154</title>
-    <link>http://chreliot.github.io/phi154/tags/notes/</link>
+    <link>https://chreliot.github.io/phi154/tags/notes/</link>
     <description>Recent content in notes on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Sep 2021 13:52:57 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Sep 2021 13:52:57 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 Caveats</title>
-      <link>http://chreliot.github.io/phi154/notes/10-caveats/</link>
+      <link>https://chreliot.github.io/phi154/notes/10-caveats/</link>
       <pubDate>Thu, 02 Sep 2021 13:52:57 -0400</pubDate>
       
-      <guid>http://chreliot.github.io/phi154/notes/10-caveats/</guid>
+      <guid>https://chreliot.github.io/phi154/notes/10-caveats/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Interpreting Grades</title>
-      <link>http://chreliot.github.io/phi154/notes/interpreting-grades/</link>
+      <link>https://chreliot.github.io/phi154/notes/interpreting-grades/</link>
       <pubDate>Wed, 01 Sep 2021 10:45:14 -0400</pubDate>
       
-      <guid>http://chreliot.github.io/phi154/notes/interpreting-grades/</guid>
+      <guid>https://chreliot.github.io/phi154/notes/interpreting-grades/</guid>
       <description>This note about grading and interpreting grades just adds some informative detail to what the course syllabus already says about grading, and it shows how grades are calculated for any particular assessment.
 4-point scale Test grades Overall course grades 4-point scale Grades in this course are assigned and calculated using Hofstra&amp;rsquo;s 4-point scale (described here in the Hofstra Bulletin). Following the Bulletin, the alphabetical grades, including plus (+) and minus (–), have the following 4-point scale values (and vice versa):</description>
     </item>
     
     <item>
       <title>vocabulary list</title>
-      <link>http://chreliot.github.io/phi154/notes/vocabulary-list/</link>
+      <link>https://chreliot.github.io/phi154/notes/vocabulary-list/</link>
       <pubDate>Tue, 01 Sep 2020 11:24:53 -0400</pubDate>
       
-      <guid>http://chreliot.github.io/phi154/notes/vocabulary-list/</guid>
+      <guid>https://chreliot.github.io/phi154/notes/vocabulary-list/</guid>
       <description>These are technical words for the course. Generally, you can find these words in the forall x book highlighted in pink small-caps. Also, that textbook includes a Glossary (page 412 in the Fall 2021 edition) for many of these.
 argument sentence true false truth value (logical) consequence (logical) validity (logical) invalidity (logical) soundness (logical) unsoundness inductive arguments deductive arguments case joint possibility joint impossibility contingency necessary truth necessary falsehood necessary equivalence truth-functional logic truth-functional connectives symbolization key atomic sentence expression of TFL sentence of TFL negation conjunction disjunction conditional biconditional conjunct disjunct antecedent consequent inclusive or exclusive or main logical operator scope (of a connective) use mention metavariable characteristic truth table natural deduction formal proof inference rules of TFL modus ponens affirming the consequent subproof additional assumption scope line discharging an assumption reductio ad absurdum indirect proof explosion derived rules disjunctive syllogism modus tollens First-order Logic (FOL) name singular term term predicate quantifier variable universal quantifier existential quantifier domain scope (of a quantifier) (The parentheses indicate that we often use the word or phrase without the part in parentheses.</description>
     </item>
