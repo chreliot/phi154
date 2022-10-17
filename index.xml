@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Aug 2020 12:26:52 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi154/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Natural Deduction Strategy</title>
+      <link>https://chreliot.github.io/phi154/notes/natural-deduction-strategy/</link>
+      <pubDate>Mon, 17 Oct 2022 15:14:13 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi154/notes/natural-deduction-strategy/</guid>
+      <description>The first things you need to know for doing natural deduction are what formal proofs do in general and how our natural deduction proofs in particular will be structured (see Chapter 16.1) and what the inference rules are that you can use to move from one line of a proof to the next (the rest of Ch. 16).
+But it&amp;rsquo;s also helpful to think about strategy. Chapter 17 offers some ideas.</description>
+    </item>
+    
+    <item>
       <title>vocabulary list</title>
       <link>https://chreliot.github.io/phi154/notes/vocabulary-list/</link>
       <pubDate>Mon, 17 Oct 2022 09:29:40 -0400</pubDate>

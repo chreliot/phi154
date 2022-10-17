@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Natural Deduction Strategy | PHI 154</title>
+    <link rel="stylesheet" href="/phi154/css/style.css" />
+    <link rel="stylesheet" href="/phi154/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/phi154/">schedule</a></li>
+      
+      <li><a href="/phi154/topics">topics</a></li>
+      
+      <li><a href="/phi154/handouts">handouts</a></li>
+      
+      <li><a href="/phi154/tags/notes">notes</a></li>
+      
+      <li><a href="/phi154/resources">resources</a></li>
+      
+      <li><a href="https://resources.us-east-1.linodeobjects.com/154-Syllabus-F22.pdf">syllabus</a></li>
+      
+      <li><a href="https://hofstra.blackboard.com">blackboard</a></li>
+      
+      <li><a href="/phi154/about">about</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Natural Deduction Strategy</span></h1>
+
+</div>
+
+<main>
+<p>The first things you need to know for doing natural deduction are what formal proofs do in general and how our natural deduction proofs in particular will be structured (see Chapter 16.1) and what the inference rules are that you can use to move from one line of a proof to the next (the rest of Ch. 16).</p>
+<p>But it&rsquo;s also helpful to think about strategy. Chapter 17 offers some ideas. Here is my take on how to get started.</p>
+<p>Start the proof by writing out the premises in a list with the assumption bar beneath them and a scope line to the side. Then, off to the side, in your notes write out your conclusion.</p>
+<p>Next, ask yourself the following questions about the argument&rsquo;s conclusion.</p>
+<h2 id="questions-to-ask-yourself-at-each-step-of-a-natural-deduction-proof">Questions to ask yourself at each step of a natural deduction proof</h2>
+<ol>
+<li>
+<p>Does it appear as a whole anywhere in the premises?</p>
+</li>
+<li>
+<p>If <strong>yes</strong>,</p>
+</li>
+</ol>
+<ul>
+<li>Is it <strong>within a conjunction</strong>? Consider pulling it out with the conjunction elimination rule.</li>
+<li>Is it the <strong>consequent of a conditional</strong>? Consider pulling it out with the  conditional elimination rule, by using another line that has the antecedent on it. To get the antecedent, take it back to step 1. That means: “ask question 1 about just that antecedent sentence, and repeat.&quot;</li>
+<li>Is it <strong>one side of a biconditional</strong>? Consider pulling it out with the biconditional elimination rule, by using another line that has the other side of the biconditional on it. To get the that other side, take it back to step 1.</li>
+</ul>
+<ol start="3">
+<li>If <strong>no</strong>,</li>
+</ol>
+<ul>
+<li>Is the sentence a <strong>conjunction</strong> (= its main logical operator is a conjunction)? Consider putting it together with the other conjunct using the conjunction introduction rule. To get the other conjunct, take it back to step 1.</li>
+<li>Is the sentence a <strong>conditional</strong> (= its main logical operator is a conditional)? Consider assuming its antecedent as an auxiliary assumption for a subproof,  and then deriving its consequent. This will allow you to declare the conditional on its own line using the conditional introduction rule. To get the consequent, take it back to step 1.</li>
+<li>Is the sentence a <strong>biconditional</strong> (= its main logical operator is a biconditional)? Consider assuming the left side as an auxiliary assumption for a subproof,  and then deriving the right side. Then, end that subproof as soon as you have the right side and immediately assume the right side for a new subproof. Work toward the left side and end the subproof there. This will allow you to declare the biconditional on its own line using the biconditional introduction rule. In each case, once you start the subproof, take the new subgoal back to step 1.</li>
+</ul>
+<ol start="4">
+<li>
+<p>In this way, in your notes rather than at first in your proof, work backwards from the conclusion to parts of the premises (or, perhaps to auxiliary assumptions in the cases where those are necessary) until you see how the conclusion can be connected back by the repeated application of the TFL inference rules.</p>
+</li>
+<li>
+<p>Once you have completed a sketch of the proof backwards in your notes, write out the formal proof in the opposite order, starting with the premises (if any) and deriving the conclusion in a way that matches your notes. Eventually, as you get comfortable with applying the rules, you will be able to do this mentally, using notes in fewer and fewer proofs.</p>
+</li>
+</ol>
+<p>As we add more inference rules, we will need a few more subquestions in the above!</p>
+
+</main>
+
+  <footer>
+  
+  <hr/>
+  <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC</a> C. Eliot (2022) |   <a href="mailto:Christopher.H.Eliot@hofstra.edu">mail</a> | <a href="https://twitter.com/HofstraPhil">@HofstraPhil</a> | <a href="https://www.hofstra.edu/academics/colleges/hclas/phi/">HUφ</a> | <a href="https://chreliot.github.io/dasr">MDASR</a>
+  
+   | page updated: 2022-10-17 15:42 EDT 
+
+  </footer>
+  </body>
+</html>
+
