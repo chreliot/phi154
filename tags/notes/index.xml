@@ -6,7 +6,16 @@
     <description>Recent content in notes on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Oct 2022 17:54:12 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Nov 2022 10:20:25 -0500</lastBuildDate><atom:link href="https://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Carnap</title>
+      <link>https://chreliot.github.io/phi154/notes/using-carnap/</link>
+      <pubDate>Mon, 07 Nov 2022 10:20:25 -0500</pubDate>
+      
+      <guid>https://chreliot.github.io/phi154/notes/using-carnap/</guid>
+      <description>General introduction Carnap is, as the project page describes it, “a free and open software framework written in Haskell for teaching and studying formal logic.” It can be customized to use many symbolization and proof systems, including the one we are using in this course (from forall x: Calgary). It allows you to type and structure symbolizations, natural deduction proofs, and truth tables, and it is capable of checking proofs for errors and giving you a heads-up that there&amp;rsquo;s a problem.</description>
+    </item>
+    
     <item>
       <title>Natural Deduction Strategy</title>
       <link>https://chreliot.github.io/phi154/notes/natural-deduction-strategy/</link>

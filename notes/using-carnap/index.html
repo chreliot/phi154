@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Using Carnap | PHI 154</title>
+    <link rel="stylesheet" href="/phi154/css/style.css" />
+    <link rel="stylesheet" href="/phi154/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/phi154/">schedule</a></li>
+      
+      <li><a href="/phi154/topics">topics</a></li>
+      
+      <li><a href="/phi154/handouts">handouts</a></li>
+      
+      <li><a href="/phi154/tags/notes">notes</a></li>
+      
+      <li><a href="/phi154/resources">resources</a></li>
+      
+      <li><a href="https://resources.us-east-1.linodeobjects.com/154-Syllabus-F22.pdf">syllabus</a></li>
+      
+      <li><a href="https://hofstra.blackboard.com">blackboard</a></li>
+      
+      <li><a href="/phi154/about">about</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Using Carnap</span></h1>
+
+</div>
+
+<main>
+<h2 id="general-introduction">General introduction</h2>
+<p><a href="https://carnap.io">Carnap</a> is, as the project page describes it, “a free and open software framework written in Haskell for teaching and studying formal logic.” It can be customized to use many symbolization and proof systems, including the one we are using in this course (from <em>forall x: Calgary</em>). It allows you to type and structure symbolizations, natural deduction proofs, and truth tables, and it is capable of checking proofs for errors and giving you a heads-up that there&rsquo;s a problem.</p>
+<p>The system is named after <a href="https://plato.stanford.edu/entries/carnap/">Rudolf Carnap</a>, a twentieth century philosopher who made major contributions to philosophy of science and logic.</p>
+<p>I have not used the Carnap system in a course before. So, for us it is a bit of an experiment. I hope you will give me feedback on where you could use clearer guidance, what you like, and what you don&rsquo;t like (if anywhere/anything). There are ways for me to set it up differently for our use, that I would be happy to try, for example.</p>
+<h2 id="accessing-carnap">Accessing Carnap</h2>
+<p>I posted a login link to Blackboard. It should allow you to create a login to work on Carnap. Let me know if you have any problems.</p>
+<h2 id="typing-truth-functional-logic-in-carnap">Typing Truth-functional Logic in Carnap</h2>
+<p>Here are the different ways you can type the logical connectives and symbols of TFL. For almost all of them, there is more than one way to type it!</p>
+<table>
+<thead>
+<tr>
+<th>symbol of TFL</th>
+<th>how to type it</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>not ¬</td>
+<td><code>-</code>, <code>~</code></td>
+</tr>
+<tr>
+<td>and ∧</td>
+<td><code>/\</code>,  <code>&amp;</code></td>
+</tr>
+<tr>
+<td>or ∨</td>
+<td><code>\/</code></td>
+</tr>
+<tr>
+<td>if then →</td>
+<td><code>-&gt;</code>, <code>&gt;</code></td>
+</tr>
+<tr>
+<td>if and only if ↔</td>
+<td><code>&lt;-&gt;</code>, <code>&lt;&gt;</code></td>
+</tr>
+<tr>
+<td>contradiction ⊥</td>
+<td><code>!?</code>, <code>_|_</code></td>
+</tr>
+</tbody>
+</table>
+<p>So, for example, &ldquo;If P then not Q&rdquo; can be typed into symbols using &ldquo;<code>P &gt; ~Q</code>&rdquo; (or &ldquo;<code>P -&gt; -Q</code>&rdquo;). For TFL, you can probably leave your caps-lock key on!</p>
+<h2 id="typing-natural-deduction-proofs-in-carnap">Typing natural deduction proofs in Carnap</h2>
+<p>To write a proof, you just need to write each inference on its own line.</p>
+<p>Justifications are introduced by a colon, like <code>:R 2</code> for &ldquo;reiteration from line 2&rdquo;, and can typed be typed using the symbol set above (as needed). Further examples: <code>:/\E 4</code> for &ldquo;Conjunction Elimination from line 4,&rdquo; or <code>-&gt;I 2–6</code> for Conditional Introduction from lines 2 through 6.</p>
+<p>You can flag that a sentence is a premise by justifying it with <code>:PR</code>. Of course, when we write proofs by hand using our system, we usually leave the justification space blank for premises, but add that helps the interpreter understand that you haven&rsquo;t just forgotten the justification.</p>
+<p>So, a very simple proof might look like:</p>
+<pre tabindex="0"><code>A /\ B :PR
+B &gt; ~A :PR
+B :/\E 1
+~A :-&gt;E 2,3
+</code></pre><p>Try to read through that to see if you can understand it.</p>
+<h2 id="typing-subproofs">Typing subproofs</h2>
+<p>In Carnap, you can make a subproof by <em>indenting</em> the lines that make up
+the subproof, and by justifying its first line (the assumption of the
+subproof) with <code>:AS</code> (for “assumption”) to the right of the sentence. You can indent any number of spaces; I think two spaces is easy to read.</p>
+<p>Sentences <em>not</em> in a subproof must not be indented at all, and sentences
+in the same subproof must be indented the same number of spaces.</p>
+<h2 id="questions">Questions</h2>
+<p>Contact me if you have any questions and I can add any missing informatio here!</p>
+
+</main>
+
+  <footer>
+  
+  <hr/>
+  <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC</a> C. Eliot (2022) |   <a href="mailto:Christopher.H.Eliot@hofstra.edu">mail</a> | <a href="https://twitter.com/HofstraPhil">@HofstraPhil</a> | <a href="https://www.hofstra.edu/academics/colleges/hclas/phi/">HUφ</a> | <a href="https://chreliot.github.io/dasr">MDASR</a>
+  
+   | page updated: 2022-11-07 11:10 EST 
+
+  </footer>
+  </body>
+</html>
+
