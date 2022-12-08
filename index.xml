@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Aug 2020 12:26:52 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi154/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Test 2</title>
+      <link>https://chreliot.github.io/phi154/notes/test-2/</link>
+      <pubDate>Thu, 08 Dec 2022 09:57:42 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi154/notes/test-2/</guid>
+      <description>Test 2 may include the following:
+Offer the definition of “logically valid.” Answer true-false questions using the terms/concepts from the vocabulary list, very similar to the true-false exercises you&amp;rsquo;ve done previously. Given a logically valid argument expressed in English, construct a symbolization key for the atomic sentences and/or names and predicates within them, in a way that&amp;rsquo;s adequate to bring out the logical validity of the argument. Using a symbolization key, symbolize English sentences in TFL (truth-functional/sentential logic) and FOL (first-order/predicate logic).</description>
+    </item>
+    
+    <item>
       <title>Using Carnap</title>
       <link>https://chreliot.github.io/phi154/notes/using-carnap/</link>
       <pubDate>Mon, 07 Nov 2022 10:20:25 -0500</pubDate>
