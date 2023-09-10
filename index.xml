@@ -30,25 +30,6 @@ Define “logically valid.” Answer true-false questions using the terms/concep
     </item>
     
     <item>
-      <title>Using Carnap</title>
-      <link>https://chreliot.github.io/phi154/notes/using-carnap/</link>
-      <pubDate>Mon, 07 Nov 2022 10:20:25 -0500</pubDate>
-      
-      <guid>https://chreliot.github.io/phi154/notes/using-carnap/</guid>
-      <description>General introduction Carnap is, as the project page describes it, “a free and open software framework written in Haskell for teaching and studying formal logic.” It can be customized to use many symbolization and proof systems, including the one we are using in this course (from forall x: Calgary). It allows you to type and structure symbolizations, natural deduction proofs, and truth tables, and it is capable of checking proofs for errors and giving you a heads-up that there&amp;rsquo;s a problem.</description>
-    </item>
-    
-    <item>
-      <title>Natural Deduction Strategy</title>
-      <link>https://chreliot.github.io/phi154/notes/natural-deduction-strategy/</link>
-      <pubDate>Wed, 19 Oct 2022 17:54:12 -0400</pubDate>
-      
-      <guid>https://chreliot.github.io/phi154/notes/natural-deduction-strategy/</guid>
-      <description>The first things you need to know for doing natural deduction are what formal proofs do in general and how our natural deduction proofs in particular will be structured (see Chapter 16.1) and what the inference rules are that you can use to move from one line of a proof to the next (the rest of Ch. 16).
-But it&amp;rsquo;s also helpful to think about strategy. Chapter 17 offers some ideas.</description>
-    </item>
-    
-    <item>
       <title>vocabulary list</title>
       <link>https://chreliot.github.io/phi154/notes/vocabulary-list/</link>
       <pubDate>Mon, 17 Oct 2022 09:29:40 -0400</pubDate>
