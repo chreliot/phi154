@@ -6,15 +6,27 @@
     <description>Recent content in notes on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Dec 2022 09:57:42 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 13:48:40 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test 2</title>
       <link>https://chreliot.github.io/phi154/notes/test-2/</link>
-      <pubDate>Thu, 08 Dec 2022 09:57:42 -0400</pubDate>
+      <pubDate>Sun, 10 Sep 2023 13:48:40 -0400</pubDate>
       
       <guid>https://chreliot.github.io/phi154/notes/test-2/</guid>
-      <description>Test 2 may include the following:
-Offer the definition of “logically valid.” Answer true-false questions using the terms/concepts from the vocabulary list, very similar to the true-false exercises you&amp;rsquo;ve done previously. Given a logically valid argument expressed in English, construct a symbolization key for the atomic sentences and/or names and predicates within them, in a way that&amp;rsquo;s adequate to bring out the logical validity of the argument. Using a symbolization key, symbolize English sentences in TFL (truth-functional/sentential logic) and FOL (first-order/predicate logic).</description>
+      <description>Note: This information page, though similar to what it will include in the end, is not yet finalized. When this page is finalized, this note will disappear.
+Test 2 may include the following:
+Offer the definition of “logically valid.” Answer true-false questions using the terms/concepts from the vocabulary list, very similar to the true-false exercises you&amp;rsquo;ve done previously. Given a logically valid argument expressed in English, construct a symbolization key for the atomic sentences and/or names and predicates within them, in a way that&amp;rsquo;s adequate to bring out the logical validity of the argument.</description>
+    </item>
+    
+    <item>
+      <title>Test 1</title>
+      <link>https://chreliot.github.io/phi154/notes/test-1/</link>
+      <pubDate>Sun, 10 Sep 2023 13:48:33 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi154/notes/test-1/</guid>
+      <description>Note: This information page, though similar to what it will include in the end, is not yet finalized. When this page is finalized, this note will disappear.
+Test 1, at class time on October 25, may include the following tasks:
+Define “logically valid.” Answer true-false questions using the terms/concepts from the vocabulary sheet, very similar to the true-false exercises you&amp;rsquo;ve done. Look at one or more English sentences, and construct a symbolization key for the atomic TFL sentences in them—a key that is adequate to bring out their truth-functional structure.</description>
     </item>
     
     <item>
@@ -44,16 +56,6 @@ But it&amp;rsquo;s also helpful to think about strategy. Chapter 17 offers some 
       <guid>https://chreliot.github.io/phi154/notes/vocabulary-list/</guid>
       <description>These are technical words for the course. Generally, you can find these words in the forall x book highlighted in pink small-caps. Also, that textbook includes a Glossary (page 413 in the Fall 2021+ edition) for many of these.
 argument sentence true false truth value (logical) consequence (logical) validity (logical) invalidity (logical) soundness (logical) unsoundness inductive arguments deductive arguments case joint possibility joint impossibility contingency necessary truth necessary falsehood necessary equivalence truth-functional logic truth-functional connectives symbolization key atomic sentence expression of TFL sentence of TFL negation conjunction disjunction conditional biconditional conjunct disjunct antecedent consequent inclusive or exclusive or main logical operator scope (of a connective) use mention metavariable characteristic truth table natural deduction formal proof inference rules of TFL modus ponens affirming the consequent subproof additional assumption scope line discharging an assumption reductio ad absurdum indirect proof explosion derived rules disjunctive syllogism modus tollens First-order Logic (FOL) name singular term term predicate quantifier variable universal quantifier existential quantifier domain scope (of a quantifier) (The parentheses indicate that we often use the word or phrase without the part in parentheses.</description>
-    </item>
-    
-    <item>
-      <title>Test 1</title>
-      <link>https://chreliot.github.io/phi154/notes/test-1/</link>
-      <pubDate>Mon, 17 Oct 2022 09:27:22 -0400</pubDate>
-      
-      <guid>https://chreliot.github.io/phi154/notes/test-1/</guid>
-      <description>Test 1, at class time on October 26, may include the following tasks:
-Define “logically valid.” Answer true-false questions using the terms/concepts from the vocabulary sheet, very similar to the true-false exercises you&amp;rsquo;ve done. Look at one or more English sentences, and construct a symbolization key for the atomic TFL sentences in them—a key that is adequate to bring out their truth-functional structure. Using a given symbolization key, symbolize English sentences in TFL.</description>
     </item>
     
     <item>
