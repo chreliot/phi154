@@ -6,7 +6,17 @@
     <description>Recent content in Notes on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2023 13:48:40 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi154/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 21:25:08 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi154/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Gradescope</title>
+      <link>https://chreliot.github.io/phi154/notes/using-gradescope/</link>
+      <pubDate>Sun, 17 Sep 2023 21:25:08 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi154/notes/using-gradescope/</guid>
+      <description>Gradescope is an elegant online-grading web-application that Hofstra subscribes to. I use it for grading some assignments and all quizzes and tests for this course because it has at least these virtues:
+a. I can grade without knowing whose work I&amp;rsquo;m grading, which helps make sure I&amp;rsquo;m not bringing in unconscious biases. b. It&amp;rsquo;s easy for you to see how I&amp;rsquo;ve graded your work. In some cases I can include short explanations.</description>
+    </item>
+    
     <item>
       <title>Test 2</title>
       <link>https://chreliot.github.io/phi154/notes/test-2/</link>
