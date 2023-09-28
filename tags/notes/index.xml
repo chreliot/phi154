@@ -6,7 +6,17 @@
     <description>Recent content in notes on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Sep 2023 21:25:08 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Sep 2023 14:21:17 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quiz 1</title>
+      <link>https://chreliot.github.io/phi154/notes/quiz-1/</link>
+      <pubDate>Thu, 28 Sep 2023 14:21:17 -0400</pubDate>
+      
+      <guid>https://chreliot.github.io/phi154/notes/quiz-1/</guid>
+      <description>Our first short check-in quiz will cover the basic logical concepts we learned at the beginning of the course and symbolization in truth-functional logic (TFL).
+The first part of the quiz will concern the logical concepts listed on the vocabulary page, up to number 12 (necessary truth, etc.). The handful of questions will cover topics similar to the true-false exercise you did. However, there may be one-sentence short answer or word/phrase fill-in-the-blank questions, not necessarily true/false questions.</description>
+    </item>
+    
     <item>
       <title>Using Gradescope</title>
       <link>https://chreliot.github.io/phi154/notes/using-gradescope/</link>
