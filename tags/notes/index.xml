@@ -6,76 +6,63 @@
     <description>Recent content in notes on PHI 154</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2023 14:42:06 -0400</lastBuildDate><atom:link href="https://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Sep 2023 14:42:06 -0400</lastBuildDate>
+    <atom:link href="https://chreliot.github.io/phi154/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>vocabulary list</title>
       <link>https://chreliot.github.io/phi154/notes/vocabulary-list/</link>
       <pubDate>Thu, 28 Sep 2023 14:42:06 -0400</pubDate>
-      
       <guid>https://chreliot.github.io/phi154/notes/vocabulary-list/</guid>
       <description>These are technical words for the course. Generally, you can find these words in the forall x book highlighted in pink small-caps. Also, that textbook includes a Glossary (page 421 in the Fall 2023 edition) for many of these.
 argument sentence true false truth value (logical) consequence (logical) validity (logical) invalidity (logical) soundness (logical) unsoundness inductive arguments deductive arguments case joint possibility (jointly possible) joint impossibility (jointly impossible) contingency (contingent) necessary truth necessary falsehood necessary equivalence truth-functional logic truth-functional connectives symbolization key atomic sentence expression of TFL sentence of TFL negation conjunction disjunction conditional biconditional conjunct disjunct antecedent consequent inclusive or exclusive or main logical operator scope (of a connective) use mention metavariable characteristic truth table natural deduction formal proof inference rules of TFL modus ponens affirming the consequent subproof additional assumption scope line discharging an assumption reductio ad absurdum indirect proof explosion derived rules disjunctive syllogism modus tollens First-order Logic (FOL) name singular term term predicate quantifier variable universal quantifier existential quantifier domain scope (of a quantifier) (The parentheses indicate that we often use the word or phrase without the part in parentheses.</description>
     </item>
-    
     <item>
       <title>Quiz 1</title>
       <link>https://chreliot.github.io/phi154/notes/quiz-1/</link>
       <pubDate>Thu, 28 Sep 2023 14:21:17 -0400</pubDate>
-      
       <guid>https://chreliot.github.io/phi154/notes/quiz-1/</guid>
       <description>Our first short check-in quiz will cover the basic logical concepts we learned at the beginning of the course and symbolization in truth-functional logic (TFL).
 The first part of the quiz will concern the logical concepts listed on the vocabulary page, up through “necessary falsehood.” The handful of questions will cover topics similar to the true-false exercise you did. However, there may be one-sentence short answer or word/phrase fill-in-the-blank questions, not necessarily true/false questions.</description>
     </item>
-    
     <item>
       <title>Using Gradescope</title>
       <link>https://chreliot.github.io/phi154/notes/using-gradescope/</link>
       <pubDate>Sun, 17 Sep 2023 21:25:08 -0400</pubDate>
-      
       <guid>https://chreliot.github.io/phi154/notes/using-gradescope/</guid>
       <description>Gradescope is an elegant online-grading web-application that Hofstra subscribes to. I use it for grading some assignments and all quizzes and tests for this course because it has at least these virtues:
 I can grade without knowing whose work I&amp;rsquo;m grading, which helps make sure I&amp;rsquo;m not bringing in unconscious biases. It&amp;rsquo;s easy for you to see how I&amp;rsquo;ve graded your work. In some cases I can include short explanations. Some assignments can even be automatically graded.</description>
     </item>
-    
     <item>
       <title>Test 2</title>
       <link>https://chreliot.github.io/phi154/notes/test-2/</link>
       <pubDate>Sun, 10 Sep 2023 13:48:40 -0400</pubDate>
-      
       <guid>https://chreliot.github.io/phi154/notes/test-2/</guid>
       <description>Note: This information page, though similar to what it will include in the end, is not yet finalized. When this page is finalized, this note will disappear.
 Test 2 may include the following:
 Offer the definition of “logically valid.” Answer true-false questions using the terms/concepts from the vocabulary list, very similar to the true-false exercises you&amp;rsquo;ve done previously. Given a logically valid argument expressed in English, construct a symbolization key for the atomic sentences and/or names and predicates within them, in a way that&amp;rsquo;s adequate to bring out the logical validity of the argument.</description>
     </item>
-    
     <item>
       <title>Test 1</title>
       <link>https://chreliot.github.io/phi154/notes/test-1/</link>
       <pubDate>Sun, 10 Sep 2023 13:48:33 -0400</pubDate>
-      
       <guid>https://chreliot.github.io/phi154/notes/test-1/</guid>
       <description>Test 1, at class time on October 25, may include the following tasks:
 Define “logically valid.” Answer true-false questions using the terms/concepts from the vocabulary sheet, very similar to the true-false exercises you&amp;rsquo;ve done. Look at one or more English sentences, and construct a symbolization key for the atomic TFL sentences in them—a key that is adequate to bring out their truth-functional structure. Using a given symbolization key, symbolize English sentences in TFL.</description>
     </item>
-    
     <item>
       <title>10 Caveats</title>
       <link>https://chreliot.github.io/phi154/notes/10-caveats/</link>
       <pubDate>Thu, 02 Sep 2021 13:52:57 -0400</pubDate>
-      
       <guid>https://chreliot.github.io/phi154/notes/10-caveats/</guid>
       <description> </description>
     </item>
-    
     <item>
       <title>Interpreting Grades</title>
       <link>https://chreliot.github.io/phi154/notes/interpreting-grades/</link>
       <pubDate>Wed, 01 Sep 2021 10:45:14 -0400</pubDate>
-      
       <guid>https://chreliot.github.io/phi154/notes/interpreting-grades/</guid>
       <description>This note about grading and interpreting grades just adds some informative detail to what the course syllabus already says about grading, and it shows how grades are calculated for any particular assessment.
 4-point scale Test and quiz grades Overall course grades 4-point scale Grades in this course are assigned and calculated using Hofstra&amp;rsquo;s 4-point scale (described here in the Hofstra Bulletin). Following the Bulletin, the alphabetical grades, including plus (+) and minus (–), have the following 4-point scale values (and vice versa):</description>
     </item>
-    
   </channel>
 </rss>
