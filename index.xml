@@ -9,6 +9,14 @@
     <lastBuildDate>Sun, 10 Sep 2023 13:32:49 -0400</lastBuildDate>
     <atom:link href="https://chreliot.github.io/phi154/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Introductory Tfl Proofs</title>
+      <link>https://chreliot.github.io/phi154/notes/introductory-tfl-proofs/</link>
+      <pubDate>Mon, 06 Nov 2023 08:59:33 -0500</pubDate>
+      <guid>https://chreliot.github.io/phi154/notes/introductory-tfl-proofs/</guid>
+      <description>A student requested extra introductory, practice problems for natural deduction proofs in truth-functional logic (TFL). Here are two sets of proofs you can work on. They start out very basic and work up to the level of the homework problems. They develop more or less sequentially, adding variations to try to lead you through the options you have.
+As of the day I am posting this (2023-11-06), I have proofread the problems once, but if you suspect there is an issue, please ask!</description>
+    </item>
+    <item>
       <title>vocabulary list</title>
       <link>https://chreliot.github.io/phi154/notes/vocabulary-list/</link>
       <pubDate>Thu, 28 Sep 2023 14:42:06 -0400</pubDate>
